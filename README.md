@@ -2,10 +2,10 @@
 
 ## Making Virtual Environment:
 
-1. `mkdir project_name
-2. `python -m venv project_name\venv
-3. `project_name\venv\Scripts\activate.bat
-4. `deactivate
+1. `mkdir project_name`
+2. `python -m venv project_name\venv`
+3. `project_name\venv\Scripts\activate.bat`
+4. `deactivate`
 
 ## Install
 
