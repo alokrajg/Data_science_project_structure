@@ -1,13 +1,15 @@
-# Maintainable Code in Data Science 
+# Data Science Project
 
-Using SKlearn's transformers and pipelines.
+## Making Virtual Environment:
 
-* [Slides](https://speakerdeck.com/klemag/maintainable-code-for-data-science)
+1. mkdir project_name
+2. python -m venv project_name\venv
+3. project_name\venv\Scripts\activate.bat
+
+pip list(check package list)
+
+4. deactivate
 
 ## Install
 
 `pip install -r requirements.txt`
-
-## Exercise
-
-Open the notebook `exercise/Exercise.ipynb` and follow the instructions.
